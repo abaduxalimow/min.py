@@ -1,1 +1,1 @@
-# min.py
+playtoearn
